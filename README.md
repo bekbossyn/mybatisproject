@@ -1,6 +1,6 @@
 # mybatisproject
 Spring-mybatis-mysql-maven - Это вэб-приложение, которое отображает первое слово в базе данных. Можно добавлять слова в базу..
-
+.. следуем инструкциям:
 1. Устанавливаем/скачиваем Eclipse IDE for Java EE developers; Сервер apache tomcat версии 7.0 или выше; mySQL Workbench;
 2. Настройка сервера Apache Tomcat в Eclipse
   --> 1) Разархивировать Apache Tomcat куда удобно (Desktop)
